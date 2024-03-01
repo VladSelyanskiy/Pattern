@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>515211</id>
+      <name>Test for ships</name>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-02-20 17:12:46.281908+00:00</created>
+      <updated>2024-02-23 19:47:54.780952+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>584372</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>https://app.cvat.ai/api/jobs/583246</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>selanskijvladislav</username>
+        <email>selanskijvladislav@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>aircraft</name>
+          <color>#16fa8c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>ship</name>
+          <color>#474403</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-02-26 16:43:59.729900+00:00</dumped>
+  </meta>
+  <image id="0" name="boat42.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="167.98" ytl="102.33" xbr="177.77" ybr="111.23" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="188.00" ytl="91.21" xbr="200.47" ybr="101.00" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="206.25" ytl="72.96" xbr="216.04" ybr="83.64" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="216.93" ytl="89.87" xbr="228.50" ybr="102.33" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="200.47" ytl="115.68" xbr="211.15" ybr="128.59" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="179.99" ytl="125.47" xbr="190.67" ybr="135.27" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="227.17" ytl="117.91" xbr="240.52" ybr="131.26" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="248.98" ytl="105.45" xbr="260.99" ybr="116.57" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="238.70" ytl="88.10" xbr="247.64" ybr="98.77" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="265.00" ytl="81.86" xbr="277.46" ybr="93.88" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="253.87" ytl="56.49" xbr="265.00" ybr="69.84" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="236.07" ytl="33.79" xbr="250.31" ybr="46.25" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="331.76" ytl="53.38" xbr="352.23" ybr="72.51" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="352.23" ytl="36.46" xbr="364.69" ybr="46.70" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="319.16" ytl="18.88" xbr="338.74" ybr="36.24" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="344.53" ytl="13.54" xbr="359.22" ybr="30.01" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="386.37" ytl="23.78" xbr="398.38" ybr="37.13" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="382.81" ytl="82.53" xbr="395.27" ybr="96.32" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="364.11" ytl="109.23" xbr="380.58" ybr="123.47" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="383.70" ytl="130.59" xbr="394.82" ybr="144.39" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="386.81" ytl="154.63" xbr="399.72" ybr="168.87" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="340.08" ytl="169.31" xbr="348.54" ybr="184.00" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="349.43" ytl="196.91" xbr="358.33" ybr="209.37" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="363.67" ytl="220.49" xbr="379.24" ybr="233.85" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="339.19" ytl="221.38" xbr="352.10" ybr="232.06" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="316.94" ytl="228.50" xbr="330.73" ybr="240.52" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="305.80" ytl="208.00" xbr="316.49" ybr="219.60" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="296.50" ytl="187.10" xbr="307.15" ybr="202.25" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="316.05" ytl="180.88" xbr="327.17" ybr="192.90" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="279.11" ytl="206.70" xbr="290.23" ybr="219.60" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="260.86" ytl="216.49" xbr="273.32" ybr="228.50" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="230.15" ytl="211.15" xbr="239.50" ybr="220.94" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="235.94" ytl="181.77" xbr="245.28" ybr="198.24" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="260.86" ytl="177.32" xbr="272.43" ybr="187.56" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="275.55" ytl="156.41" xbr="288.45" ybr="170.65" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="262.20" ytl="121.25" xbr="271.54" ybr="131.93" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="282.22" ytl="118.13" xbr="294.24" ybr="130.15" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="296.46" ytl="139.49" xbr="309.82" ybr="153.29" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="297.80" ytl="94.54" xbr="310.26" ybr="108.78" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="313.82" ytl="118.13" xbr="330.73" ybr="131.93" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="222.14" ytl="198.24" xbr="233.27" ybr="209.37" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="202.56" ytl="211.59" xbr="215.91" ybr="224.50" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="178.08" ytl="215.60" xbr="188.32" ybr="226.28" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="158.50" ytl="214.26" xbr="169.62" ybr="224.94" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="149.60" ytl="229.39" xbr="158.94" ybr="238.74" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="172.29" ytl="199.13" xbr="185.20" ybr="211.15" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="166.06" ytl="188.45" xbr="175.85" ybr="196.91" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="183.87" ytl="178.21" xbr="194.99" ybr="188.89" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="173.18" ytl="168.42" xbr="184.76" ybr="177.77" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="159.39" ytl="139.05" xbr="170.96" ybr="152.85" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="145.15" ytl="152.85" xbr="158.05" ybr="167.98" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="122.90" ytl="144.80" xbr="136.69" ybr="156.41" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="128.68" ytl="160.41" xbr="137.13" ybr="171.98" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="138.02" ytl="174.65" xbr="147.82" ybr="185.78" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="147.82" ytl="193.35" xbr="158.50" ybr="205.36" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="122.40" ytl="181.30" xbr="134.91" ybr="194.24" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="113.99" ytl="203.14" xbr="123.78" ybr="214.26" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="122.45" ytl="218.71" xbr="134.02" ybr="229.84" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="127.34" ytl="232.06" xbr="140.70" ybr="242.75" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="105.09" ytl="220.94" xbr="118.44" ybr="233.40" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="90.40" ytl="224.05" xbr="101.53" ybr="236.52" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="95.74" ytl="205.36" xbr="105.09" ybr="216.49" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="76.16" ytl="206.70" xbr="86.40" ybr="217.82" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="49.01" ytl="212.04" xbr="61.48" ybr="220.05" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="62.37" ytl="223.16" xbr="72.16" ybr="235.18" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="35.22" ytl="217.38" xbr="44.56" ybr="228.50" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="9.40" ytl="210.26" xbr="20.98" ybr="221.83" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="38.05" ytl="130.18" xbr="48.36" ybr="141.26" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="47.58" ytl="150.79" xbr="55.83" ybr="161.35" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="79.52" ytl="172.16" xbr="90.34" ybr="183.50" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="73.85" ytl="189.16" xbr="84.16" ybr="201.52" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="86.99" ytl="152.07" xbr="98.06" ybr="164.44" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="78.23" ytl="124.52" xbr="88.54" ybr="135.33" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="52.99" ytl="124.26" xbr="64.58" ybr="137.14" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="68.19" ytl="106.74" xbr="78.23" ybr="118.59" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="97.03" ytl="95.41" xbr="111.70" ybr="107.00" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="116.61" ytl="91.03" xbr="126.65" ybr="102.88" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="99.35" ytl="74.29" xbr="115.06" ybr="83.56" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="73.85" ytl="75.84" xbr="81.32" ybr="86.91" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="44.24" ytl="60.64" xbr="54.02" ybr="73.52" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="21.83" ytl="67.08" xbr="33.42" ybr="77.64" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="0.19" ytl="74.03" xbr="8.18" ybr="87.43" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="27.49" ytl="40.81" xbr="40.37" ybr="50.85" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="46.81" ytl="35.92" xbr="57.89" ybr="48.28" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="81.58" ytl="45.96" xbr="94.72" ybr="57.29" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="102.96" ytl="42.36" xbr="114.55" ybr="53.17" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="168.89" ytl="52.40" xbr="179.97" ybr="67.08" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="181.25" ytl="26.39" xbr="191.56" ybr="39.78" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="203.40" ytl="18.92" xbr="218.09" ybr="31.28" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="227.36" ytl="7.59" xbr="242.30" ybr="23.30" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="152.67" ytl="16.60" xbr="165.29" ybr="29.48" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="126.40" ytl="16.34" xbr="139.79" ybr="28.96" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="95.75" ytl="22.01" xbr="106.82" ybr="32.31" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="89.31" ytl="1.92" xbr="102.19" ybr="11.45" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="61.23" ytl="9.90" xbr="71.02" ybr="18.40" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="36.25" ytl="10.93" xbr="48.61" ybr="20.72" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="8.18" ytl="2.43" xbr="20.28" ybr="13.51" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="0.00" ytl="27.16" xbr="6.12" ybr="36.43" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="boat43.png" width="400" height="342">
+    <box label="ship" source="manual" occluded="0" xtl="210.85" ytl="108.25" xbr="272.48" ybr="243.55" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="boat44.png" width="568" height="520">
+    <box label="ship" source="manual" occluded="0" xtl="217.09" ytl="211.37" xbr="314.23" ybr="260.51" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="boat45.png" width="504" height="486">
+    <box label="ship" source="manual" occluded="0" xtl="160.58" ytl="120.74" xbr="265.26" ybr="211.53" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="boat46.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="200.47" ytl="127.03" xbr="215.15" ybr="137.71" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="153.29" ytl="138.16" xbr="164.86" ybr="149.28" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="boat47.png" width="436" height="396">
+    <box label="ship" source="manual" occluded="0" xtl="162.24" ytl="124.67" xbr="236.94" ybr="190.67" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="boat48.png" width="544" height="518">
+    <box label="ship" source="manual" occluded="0" xtl="84.20" ytl="64.37" xbr="162.00" ybr="251.27" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="boat49.png" width="466" height="458">
+    <box label="ship" source="manual" occluded="0" xtl="130.76" ytl="130.76" xbr="291.81" ybr="270.00" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="boat50.png" width="522" height="466">
+    <box label="ship" source="manual" occluded="0" xtl="177.45" ytl="290.96" xbr="312.30" ybr="339.61" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="boat51.png" width="426" height="362">
+    <box label="ship" source="manual" occluded="0" xtl="128.86" ytl="219.36" xbr="170.63" ybr="288.32" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="311.19" ytl="158.37" xbr="363.57" ybr="248.54" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="boat52.png" width="400" height="369">
+    <box label="ship" source="manual" occluded="0" xtl="274.68" ytl="248.59" xbr="284.54" ybr="257.98" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="9.99" ytl="194.62" xbr="22.19" ybr="203.54" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="15.57" ytl="48.50" xbr="27.60" ybr="61.40" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="354.13" ytl="123.11" xbr="373.30" ybr="137.97" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="boat53.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="41.18" ytl="66.68" xbr="109.72" ybr="106.29" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="boat54.png" width="400" height="388">
+    <box label="ship" source="manual" occluded="0" xtl="91.37" ytl="103.24" xbr="186.60" ybr="214.10" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="boat55.png" width="400" height="387">
+    <box label="ship" source="manual" occluded="0" xtl="183.08" ytl="147.29" xbr="224.19" ybr="182.73" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="boat56.png" width="400" height="430">
+    <box label="ship" source="manual" occluded="0" xtl="203.24" ytl="114.48" xbr="316.64" ybr="179.06" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="159.92" ytl="286.16" xbr="229.23" ybr="360.98" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="boat57.png" width="400" height="370">
+    <box label="ship" source="manual" occluded="0" xtl="111.32" ytl="107.26" xbr="338.34" ybr="160.11" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="boat58.png" width="376" height="312">
+    <box label="ship" source="manual" occluded="0" xtl="60.06" ytl="47.60" xbr="114.91" ybr="123.60" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="boat59.png" width="506" height="516">
+    <box label="ship" source="manual" occluded="0" xtl="295.62" ytl="186.46" xbr="396.74" ybr="322.55" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="boat60.png" width="442" height="472">
+    <box label="ship" source="manual" occluded="0" xtl="251.19" ytl="184.74" xbr="347.85" ybr="287.99" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="boat61.png" width="406" height="398">
+    <box label="ship" source="manual" occluded="0" xtl="155.18" ytl="116.78" xbr="232.16" ybr="154.39" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="boat62.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="291.75" ytl="43.92" xbr="344.30" ybr="66.35" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="boat63.png" width="400" height="375">
+    <box label="ship" source="manual" occluded="0" xtl="110.07" ytl="92.46" xbr="167.43" ybr="152.79" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="boat64.png" width="400" height="386">
+    <box label="ship" source="manual" occluded="0" xtl="63.68" ytl="93.71" xbr="98.30" ybr="128.30" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="88.11" ytl="104.91" xbr="314.11" ybr="210.78" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="boat65.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="129.60" ytl="140.05" xbr="161.65" ybr="174.66" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="306.45" ytl="185.89" xbr="333.24" ybr="194.91" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="238.72" ytl="168.63" xbr="263.44" ybr="180.48" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="238.72" ytl="185.89" xbr="261.12" ybr="197.74" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="283.53" ytl="192.33" xbr="302.07" ybr="200.57" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="283.01" ytl="185.89" xbr="304.65" ybr="193.36" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="266.79" ytl="184.86" xbr="282.76" ybr="191.56" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="270.39" ytl="191.17" xbr="283.53" ybr="196.58" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="336.30" ytl="183.82" xbr="383.92" ybr="198.06" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="353.65" ytl="229.22" xbr="380.80" ybr="239.90" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="boat66.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="95.96" ytl="164.35" xbr="104.86" ybr="173.99" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="134.16" ytl="215.53" xbr="144.17" ybr="228.51" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="80.75" ytl="215.90" xbr="91.51" ybr="230.74" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="20.67" ytl="224.43" xbr="31.80" ybr="241.12" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="26.61" ytl="186.60" xbr="35.14" ybr="205.15" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="4.72" ytl="179.19" xbr="13.25" ybr="191.05" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="7.31" ytl="27.52" xbr="19.77" ybr="40.87" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="boat67.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="120.47" ytl="101.83" xbr="130.09" ybr="110.38" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="134.89" ytl="41.48" xbr="142.90" ybr="50.56" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="163.73" ytl="24.39" xbr="177.08" ybr="34.01" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="10.45" ytl="151.50" xbr="22.20" ybr="161.11" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="boat68.png" width="430" height="428">
+    <box label="ship" source="manual" occluded="0" xtl="227.25" ytl="156.33" xbr="302.51" ybr="200.54" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="boat69.png" width="400" height="369">
+    <box label="ship" source="manual" occluded="0" xtl="57.34" ytl="201.69" xbr="83.29" ybr="267.39" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="236.57" ytl="85.72" xbr="260.09" ybr="106.00" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="boat70.png" width="318" height="348">
+    <box label="ship" source="manual" occluded="0" xtl="154.42" ytl="65.17" xbr="207.20" ybr="143.18" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="boat71.png" width="400" height="377">
+    <box label="ship" source="manual" occluded="0" xtl="221.56" ytl="66.00" xbr="272.10" ybr="144.75" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="79.87" ytl="186.18" xbr="119.64" ybr="257.43" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="boat72.png" width="374" height="332">
+    <box label="ship" source="manual" occluded="0" xtl="135.95" ytl="135.14" xbr="234.45" ybr="174.54" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="boat73.png" width="397" height="400">
+    <box label="ship" source="manual" occluded="0" xtl="70.61" ytl="38.00" xbr="117.21" ybr="96.02" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="169.08" ytl="205.91" xbr="213.91" ybr="264.81" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="237.65" ytl="54.70" xbr="296.55" ybr="134.70" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="boat74.png" width="418" height="390">
+    <box label="ship" source="manual" occluded="0" xtl="76.14" ytl="139.06" xbr="186.71" ybr="197.34" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="boat75.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="258.26" ytl="44.69" xbr="326.09" ybr="93.29" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="316.47" ytl="184.61" xbr="393.91" ybr="219.33" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="boat76.png" width="520" height="462">
+    <box label="ship" source="manual" occluded="0" xtl="129.08" ytl="110.90" xbr="274.28" ybr="269.30" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="boat77.png" width="454" height="468">
+    <box label="ship" source="manual" occluded="0" xtl="181.83" ytl="93.78" xbr="283.66" ybr="166.81" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="337.14" ytl="244.98" xbr="423.54" ybr="298.47" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="boat78.png" width="240" height="242">
+    <box label="ship" source="manual" occluded="0" xtl="130.68" ytl="105.41" xbr="168.97" ybr="154.88" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="boat79.png" width="400" height="369">
+    <box label="ship" source="manual" occluded="0" xtl="77.61" ytl="287.66" xbr="106.81" ybr="309.56" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="boat80.png" width="442" height="460">
+    <box label="ship" source="manual" occluded="0" xtl="210.95" ytl="235.72" xbr="265.55" ybr="357.04" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="boat81.png" width="400" height="374">
+    <box label="ship" source="manual" occluded="0" xtl="108.01" ytl="88.94" xbr="307.75" ybr="289.50" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="boat82.png" width="506" height="458">
+    <box label="ship" source="manual" occluded="0" xtl="183.64" ytl="148.20" xbr="236.99" ybr="203.57" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="boat83.png" width="500" height="488">
+    <box label="ship" source="manual" occluded="0" xtl="152.48" ytl="142.83" xbr="299.42" ybr="240.43" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="boat84.png" width="426" height="416">
+    <box label="ship" source="manual" occluded="0" xtl="85.04" ytl="186.71" xbr="173.73" ybr="321.11" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="261.50" ytl="188.54" xbr="369.38" ybr="310.14" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="boat85.png" width="400" height="369">
+    <box label="ship" source="manual" occluded="0" xtl="156.28" ytl="123.03" xbr="170.07" ybr="136.82" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="243.06" ytl="213.05" xbr="257.65" ybr="227.65" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="boat86.png" width="338" height="344">
+    <box label="ship" source="manual" occluded="0" xtl="180.38" ytl="84.81" xbr="226.49" ybr="169.49" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="boat87.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="21.14" ytl="112.51" xbr="38.23" ybr="136.01" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="203.25" ytl="150.43" xbr="215.54" ybr="164.32" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="boat88.png" width="372" height="336">
+    <box label="ship" source="manual" occluded="0" xtl="94.49" ytl="73.22" xbr="132.15" ybr="124.18" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="boat89.png" width="440" height="364">
+    <box label="ship" source="manual" occluded="0" xtl="36.00" ytl="95.36" xbr="145.60" ybr="140.16" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="boat90.png" width="400" height="330">
+    <box label="ship" source="manual" occluded="0" xtl="184.07" ytl="127.06" xbr="210.91" ybr="174.21" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="boat91.png" width="400" height="312">
+    <box label="ship" source="manual" occluded="0" xtl="102.66" ytl="84.49" xbr="180.15" ybr="157.18" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="20.86" ytl="4.00" xbr="71.14" ybr="54.29" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="264.29" ytl="242.29" xbr="359.14" ybr="305.71" z_order="0">
+    </box>
+  </image>
+</annotations>
