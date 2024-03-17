@@ -1,0 +1,8 @@
+path: ...\dataset # dataset root dir
+train: images\train # train images (relative to 'path')
+val: images\train
+
+# Classes
+names:
+  0: plane
+  1: ship
