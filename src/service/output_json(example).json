@@ -1,0 +1,11 @@
+{
+    "objects": [
+        {
+            "xtl": 100,
+            "ytl": 200,
+            "xbr": 300,
+            "ybr": 400,
+            "class_name": "class"
+        }
+    ]
+}
