@@ -33,7 +33,7 @@ logger.setLevel(level=logging.INFO)
 
 app = FastAPI()
 
-service_config_path = "service\\configs\\service_config.json"
+service_config_path = "configs\\service_config.json"
 with open(service_config_path, "r") as service_config:
     service_config_json = json.load(service_config)
 
@@ -160,6 +160,6 @@ async def inference(image: UploadFile = File(...)) -> JSONResponse:
 """
 Команды для запуска сервиса (указан относительный путь):
 
-uvicorn service.service:app
-uvicorn service.service:app --log-config=service\\log_config.yaml
+uvicorn service:app
+uvicorn service:app --log-config=log_config.yaml
 """

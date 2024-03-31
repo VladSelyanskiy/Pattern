@@ -1,6 +1,6 @@
 {
     "name_of_classifier": "resnet152",
-    "path_to_classifier": "service\\classifier.pt",
+    "path_to_classifier": "classifier.pt",
     "name_of_detector": "yolov8",
-    "path_to_detector": "service\\detector.pt"
+    "path_to_detector": "detector.pt"
 }
