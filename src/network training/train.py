@@ -116,8 +116,8 @@ def evaluate(model, dataloader, loss_function, device):
     return epoch_loss / len(dataloader), epoch_acc / len(dataloader)
 
 
-train_path = r"C:\\Users\\vlads\\OneDrive\\Рабочий стол\\pictures\\Objects\\train"
-test_path = r"C:\\Users\\vlads\\OneDrive\\Рабочий стол\\pictures\\Objects\\test"
+train_path = r"train"
+test_path = r"test"
 
 train_data = dataset.ImageFolder(train_path, transform)
 test_data = dataset.ImageFolder(test_path, transform)
@@ -194,7 +194,7 @@ for epoch in range(epochs):
         best_loss = test_loss
         torch.save(
             pretrained_resnet18.state_dict(),
-            r"C:\\Users\\vlads\\OneDrive\\Рабочий стол\\pictures\\resnet18_best_loss.pth",
+            r"resnet18_best_loss.pth",
         )
 
 best_loss = 1000000
@@ -220,7 +220,7 @@ for epoch in range(epochs):
         best_loss = test_loss
         torch.save(
             pretrained_resnet34.state_dict(),
-            r"C:\\Users\\vlads\\OneDrive\\Рабочий стол\\pictures\\resnet34_best_loss.pth",
+            r"resnet34_best_loss.pth",
         )
 
 best_loss = 1000000
@@ -246,5 +246,5 @@ for epoch in range(epochs):
         best_loss = test_loss
         torch.save(
             pretrained_resnet50.state_dict(),
-            r"C:\\Users\\vlads\\OneDrive\\Рабочий стол\\pictures\\resnet50_best_loss.pth",
+            r"resnet50_best_loss.pth",
         )
